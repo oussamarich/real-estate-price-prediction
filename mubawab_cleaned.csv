@@ -1,0 +1,266 @@
+Title,Price,Location,Surface,Rooms,Bedrooms,Bathroom
+Ad 1,710000.0,"Zenata, Zenata",59,2.0,1.0,1.0
+Ad 2,20500.0,"Malabata, Tanger",91,3.0,2.0,2.0
+Ad 3,637000.0,"Zenata, Zenata",49,2.0,1.0,1.0
+Ad 4,1172000.0,"Hamria, Meknes",105,1.0,1.0,1.0
+Ad 5,885000.0,"Bernoussi, Casablanca",95,4.0,3.0,2.0
+Ad 6,1101600.0,"Aïn Sebaâ, Casablanca",102,4.0,2.0,2.0
+Ad 7,1880000.0,"Founti, Agadir",103,3.0,2.0,2.0
+Ad 8,2420000.0,"Guéliz, Marrakech",133,3.0,2.0,2.0
+Ad 9,11500.0,"Sidi Rahal, Sidi Rahal",95,3.0,2.0,2.0
+Ad 10,2650000.0,"Guéliz, Marrakech",100,5.0,2.0,2.0
+Ad 11,2480000.0,"Guéliz, Marrakech",84,3.0,2.0,2.0
+Ad 12,980000.0,"El Mansouria, El Mansouria",83,3.0,2.0,1.0
+Ad 13,3650000.0,"Agdal, Marrakech",136,4.0,2.0,2.0
+Ad 14,1422000.0,"Agdal, Marrakech",61,2.0,1.0,1.0
+Ad 15,1490000.0,"Belvédère, Casablanca",124,4.0,2.0,2.0
+Ad 16,1500000.0,"Guéliz, Marrakech",59,2.0,1.0,1.0
+Ad 17,2350000.0,"Hivernage, Marrakech",102,3.0,2.0,1.0
+Ad 18,1540000.0,"Belvédère, Casablanca",111,5.0,3.0,2.0
+Ad 19,1285000.0,"Guéliz, Marrakech",49,2.0,1.0,1.0
+Ad 20,895000.0,"Hivernage, Marrakech",46,2.0,1.0,1.0
+Ad 21,997500.0,"Guéliz, Marrakech",57,2.0,1.0,1.0
+Ad 22,1300000.0,"Samlalia, Marrakech",65,3.0,2.0,2.0
+Ad 23,6300000.0,"Tanger City Center, Tanger",182,6.0,4.0,4.0
+Ad 24,520000.0,"Kouilma, Tétouan",72,2.0,2.0,1.0
+Ad 25,1000000.0,"Al Osra, Casablanca",100,5.0,3.0,1.0
+Ad 26,1230000.0,"Mandarona, Casablanca",91,1.0,2.0,2.0
+Ad 27,620000.0,"Dar Bouazza, Dar Bouazza",64,2.0,2.0,1.0
+Ad 28,1480000.0,"Wilaya, Tétouan",130,4.0,3.0,2.0
+Ad 29,4200000.0,"Hay Hassani, Casablanca",189,7.0,3.0,3.0
+Ad 30,1350000.0,"Franceville, Casablanca",110,2.0,2.0,2.0
+Ad 31,740000.0,"Mhamid, Marrakech",97,3.0,1.0,2.0
+Ad 32,710000.0,"Zenata, Zenata",59,2.0,1.0,1.0
+Ad 33,20500.0,"Malabata, Tanger",91,3.0,2.0,2.0
+Ad 34,637000.0,"Zenata, Zenata",49,2.0,1.0,1.0
+Ad 35,1172000.0,"Hamria, Meknes",105,1.0,1.0,1.0
+Ad 36,885000.0,"Bernoussi, Casablanca",95,4.0,3.0,2.0
+Ad 37,1101600.0,"Aïn Sebaâ, Casablanca",102,4.0,2.0,2.0
+Ad 38,1880000.0,"Founti, Agadir",103,3.0,2.0,2.0
+Ad 39,2420000.0,"Guéliz, Marrakech",133,3.0,2.0,2.0
+Ad 40,11500.0,"Sidi Rahal, Sidi Rahal",95,3.0,2.0,2.0
+Ad 41,2650000.0,"Guéliz, Marrakech",100,5.0,2.0,2.0
+Ad 42,2480000.0,"Guéliz, Marrakech",84,3.0,2.0,2.0
+Ad 43,980000.0,"El Mansouria, El Mansouria",83,3.0,2.0,1.0
+Ad 44,3650000.0,"Agdal, Marrakech",136,4.0,2.0,2.0
+Ad 45,1422000.0,"Agdal, Marrakech",61,2.0,1.0,1.0
+Ad 46,1490000.0,"Belvédère, Casablanca",124,4.0,2.0,2.0
+Ad 47,1500000.0,"Guéliz, Marrakech",59,2.0,1.0,1.0
+Ad 48,2350000.0,"Hivernage, Marrakech",102,3.0,2.0,1.0
+Ad 49,1540000.0,"Belvédère, Casablanca",111,5.0,3.0,2.0
+Ad 50,1285000.0,"Guéliz, Marrakech",49,2.0,1.0,1.0
+Ad 51,895000.0,"Hivernage, Marrakech",46,2.0,1.0,1.0
+Ad 52,997500.0,"Guéliz, Marrakech",57,2.0,1.0,1.0
+Ad 53,1300000.0,"Samlalia, Marrakech",65,3.0,2.0,2.0
+Ad 54,6300000.0,"Tanger City Center, Tanger",182,6.0,4.0,4.0
+Ad 55,520000.0,"Kouilma, Tétouan",72,2.0,2.0,1.0
+Ad 56,1000000.0,"Al Osra, Casablanca",100,5.0,3.0,1.0
+Ad 57,1230000.0,"Mandarona, Casablanca",91,1.0,2.0,2.0
+Ad 58,620000.0,"Dar Bouazza, Dar Bouazza",64,2.0,2.0,1.0
+Ad 59,1480000.0,"Wilaya, Tétouan",130,4.0,3.0,2.0
+Ad 60,4200000.0,"Hay Hassani, Casablanca",189,7.0,3.0,3.0
+Ad 61,1350000.0,"Franceville, Casablanca",110,2.0,2.0,2.0
+Ad 62,740000.0,"Mhamid, Marrakech",97,3.0,1.0,2.0
+Ad 63,710000.0,Zenata,59,2.0,1.0,1.0
+Ad 64,20500.0,"Malabata, Tanger",91,3.0,2.0,2.0
+Ad 65,637000.0,Zenata,49,2.0,1.0,1.0
+Ad 66,1172000.0,"Hamria, Meknes",105,1.0,1.0,1.0
+Ad 67,885000.0,"Bernoussi, Casablanca",95,4.0,3.0,2.0
+Ad 68,1101600.0,"Aïn Sebaâ, Casablanca",102,4.0,2.0,2.0
+Ad 69,1880000.0,"Founti, Agadir",103,3.0,2.0,2.0
+Ad 70,2420000.0,"Guéliz, Marrakech",133,3.0,2.0,2.0
+Ad 71,11500.0,Sidi Rahal,95,3.0,2.0,2.0
+Ad 72,2650000.0,"Guéliz, Marrakech",100,5.0,2.0,2.0
+Ad 73,2480000.0,"Guéliz, Marrakech",84,3.0,2.0,2.0
+Ad 74,980000.0,El Mansouria,83,3.0,2.0,1.0
+Ad 75,3650000.0,"Agdal, Marrakech",136,4.0,2.0,2.0
+Ad 76,1422000.0,"Agdal, Marrakech",61,2.0,1.0,1.0
+Ad 77,1490000.0,"Belvédère, Casablanca",124,4.0,2.0,2.0
+Ad 78,1500000.0,"Guéliz, Marrakech",59,2.0,1.0,1.0
+Ad 79,2350000.0,"Hivernage, Marrakech",102,3.0,2.0,1.0
+Ad 80,1540000.0,"Belvédère, Casablanca",111,5.0,3.0,2.0
+Ad 81,1285000.0,"Guéliz, Marrakech",49,2.0,1.0,1.0
+Ad 82,895000.0,"Hivernage, Marrakech",46,2.0,1.0,1.0
+Ad 83,997500.0,"Guéliz, Marrakech",57,2.0,1.0,1.0
+Ad 84,1300000.0,"Samlalia, Marrakech",65,3.0,2.0,2.0
+Ad 85,6300000.0,"Tanger City Center, Tanger",182,6.0,4.0,4.0
+Ad 86,520000.0,"Kouilma, Tétouan",72,2.0,2.0,1.0
+Ad 87,1000000.0,"Al Osra, Casablanca",100,5.0,3.0,1.0
+Ad 88,1230000.0,"Mandarona, Casablanca",91,1.0,2.0,2.0
+Ad 89,620000.0,"Dar Bouazza, Dar Bouazza",64,2.0,2.0,1.0
+Ad 90,1480000.0,"Wilaya, Tétouan",130,4.0,3.0,2.0
+Ad 91,4200000.0,"Hay Hassani, Casablanca",189,7.0,3.0,3.0
+Ad 92,1350000.0,"Franceville, Casablanca",110,2.0,2.0,2.0
+Ad 93,740000.0,"Mhamid, Marrakech",97,3.0,1.0,2.0
+Ad 94,710000.0,"Zenata, Zenata",59,2.0,1.0,1.0
+Ad 95,20500.0,"Malabata, Tanger",91,3.0,2.0,2.0
+Ad 96,637000.0,"Zenata, Zenata",49,2.0,1.0,1.0
+Ad 97,1172000.0,"Hamria, Meknes",105,1.0,1.0,1.0
+Ad 98,885000.0,"Bernoussi, Casablanca",95,4.0,3.0,2.0
+Ad 99,1101600.0,"Aïn Sebaâ, Casablanca",102,4.0,2.0,2.0
+Ad 100,1880000.0,"Founti, Agadir",103,3.0,2.0,2.0
+Ad 101,2420000.0,"Guéliz, Marrakech",133,3.0,2.0,2.0
+Ad 102,11500.0,"Sidi Rahal, Sidi Rahal",95,3.0,2.0,2.0
+Ad 103,2650000.0,"Guéliz, Marrakech",100,5.0,2.0,2.0
+Ad 104,2480000.0,"Guéliz, Marrakech",84,3.0,2.0,2.0
+Ad 105,980000.0,"El Mansouria, El Mansouria",83,3.0,2.0,1.0
+Ad 106,3650000.0,"Agdal, Marrakech",136,4.0,2.0,2.0
+Ad 107,1422000.0,"Agdal, Marrakech",61,2.0,1.0,1.0
+Ad 108,1490000.0,"Belvédère, Casablanca",124,4.0,2.0,2.0
+Ad 109,1500000.0,"Guéliz, Marrakech",59,2.0,1.0,1.0
+Ad 110,2350000.0,"Hivernage, Marrakech",102,3.0,2.0,1.0
+Ad 111,1540000.0,"Belvédère, Casablanca",111,5.0,3.0,2.0
+Ad 112,1285000.0,"Guéliz, Marrakech",49,2.0,1.0,1.0
+Ad 113,895000.0,"Hivernage, Marrakech",46,2.0,1.0,1.0
+Ad 114,997500.0,"Guéliz, Marrakech",57,2.0,1.0,1.0
+Ad 115,1300000.0,"Samlalia, Marrakech",65,3.0,2.0,2.0
+Ad 116,6300000.0,"Tanger City Center, Tanger",182,6.0,4.0,4.0
+Ad 117,520000.0,"Kouilma, Tétouan",72,2.0,2.0,1.0
+Ad 118,1000000.0,"Al Osra, Casablanca",100,5.0,3.0,1.0
+Ad 119,1230000.0,"Mandarona, Casablanca",91,1.0,2.0,2.0
+Ad 120,620000.0,"Dar Bouazza, Dar Bouazza",64,2.0,2.0,1.0
+Ad 121,1480000.0,"Wilaya, Tétouan",130,4.0,3.0,2.0
+Ad 122,4200000.0,"Hay Hassani, Casablanca",189,7.0,3.0,3.0
+Ad 123,1350000.0,"Franceville, Casablanca",110,2.0,2.0,2.0
+Ad 124,740000.0,"Mhamid, Marrakech",97,3.0,1.0,2.0
+Ad 125,710000.0,"Zenata, Zenata",59,2.0,1.0,1.0
+Ad 126,20500.0,"Malabata, Tanger",91,3.0,2.0,2.0
+Ad 127,637000.0,"Zenata, Zenata",49,2.0,1.0,1.0
+Ad 128,1172000.0,"Hamria, Meknes",105,1.0,1.0,1.0
+Ad 129,885000.0,"Bernoussi, Casablanca",95,4.0,3.0,2.0
+Ad 130,1101600.0,"Aïn Sebaâ, Casablanca",102,4.0,2.0,2.0
+Ad 131,1880000.0,"Founti, Agadir",103,3.0,2.0,2.0
+Ad 132,2420000.0,"Guéliz, Marrakech",133,3.0,2.0,2.0
+Ad 133,11500.0,"Sidi Rahal, Sidi Rahal",95,3.0,2.0,2.0
+Ad 134,2650000.0,"Guéliz, Marrakech",100,5.0,2.0,2.0
+Ad 135,2480000.0,"Guéliz, Marrakech",84,3.0,2.0,2.0
+Ad 136,980000.0,"El Mansouria, El Mansouria",83,3.0,2.0,1.0
+Ad 137,3650000.0,"Agdal, Marrakech",136,4.0,2.0,2.0
+Ad 138,1422000.0,"Agdal, Marrakech",61,2.0,1.0,1.0
+Ad 139,1490000.0,"Belvédère, Casablanca",124,4.0,2.0,2.0
+Ad 140,1500000.0,"Guéliz, Marrakech",59,2.0,1.0,1.0
+Ad 141,2350000.0,"Hivernage, Marrakech",102,3.0,2.0,1.0
+Ad 142,1540000.0,"Belvédère, Casablanca",111,5.0,3.0,2.0
+Ad 143,1285000.0,"Guéliz, Marrakech",49,2.0,1.0,1.0
+Ad 144,895000.0,"Hivernage, Marrakech",46,2.0,1.0,1.0
+Ad 145,997500.0,"Guéliz, Marrakech",57,2.0,1.0,1.0
+Ad 146,1300000.0,"Samlalia, Marrakech",65,3.0,2.0,2.0
+Ad 147,6300000.0,"Tanger City Center, Tanger",182,6.0,4.0,4.0
+Ad 148,520000.0,"Kouilma, Tétouan",72,2.0,2.0,1.0
+Ad 149,1000000.0,"Al Osra, Casablanca",100,5.0,3.0,1.0
+Ad 150,1230000.0,"Mandarona, Casablanca",91,1.0,2.0,2.0
+Ad 151,620000.0,"Dar Bouazza, Dar Bouazza",64,2.0,2.0,1.0
+Ad 152,1480000.0,"Wilaya, Tétouan",130,4.0,3.0,2.0
+Ad 153,4200000.0,"Hay Hassani, Casablanca",189,7.0,3.0,3.0
+Ad 154,1350000.0,"Franceville, Casablanca",110,2.0,2.0,2.0
+Ad 155,740000.0,"Mhamid, Marrakech",97,3.0,1.0,2.0
+Ad 156,710000.0,"Zenata, Zenata",59,2.0,1.0,1.0
+Ad 157,20500.0,"Malabata, Tanger",91,3.0,2.0,2.0
+Ad 158,637000.0,"Zenata, Zenata",49,2.0,1.0,1.0
+Ad 159,1172000.0,"Hamria, Meknes",105,1.0,1.0,1.0
+Ad 160,885000.0,"Bernoussi, Casablanca",95,4.0,3.0,2.0
+Ad 161,1101600.0,"Aïn Sebaâ, Casablanca",102,4.0,2.0,2.0
+Ad 162,1880000.0,"Founti, Agadir",103,3.0,2.0,2.0
+Ad 163,2420000.0,"Guéliz, Marrakech",133,3.0,2.0,2.0
+Ad 164,11500.0,"Sidi Rahal, Sidi Rahal",95,3.0,2.0,2.0
+Ad 165,2650000.0,"Guéliz, Marrakech",100,5.0,2.0,2.0
+Ad 166,2480000.0,"Guéliz, Marrakech",84,3.0,2.0,2.0
+Ad 167,980000.0,"El Mansouria, El Mansouria",83,3.0,2.0,1.0
+Ad 168,3650000.0,"Agdal, Marrakech",136,4.0,2.0,2.0
+Ad 169,1422000.0,"Agdal, Marrakech",61,2.0,1.0,1.0
+Ad 170,1490000.0,"Belvédère, Casablanca",124,4.0,2.0,2.0
+Ad 171,1500000.0,"Guéliz, Marrakech",59,2.0,1.0,1.0
+Ad 172,2350000.0,"Hivernage, Marrakech",102,3.0,2.0,1.0
+Ad 173,1540000.0,"Belvédère, Casablanca",111,5.0,3.0,2.0
+Ad 174,1285000.0,"Guéliz, Marrakech",49,2.0,1.0,1.0
+Ad 175,895000.0,"Hivernage, Marrakech",46,2.0,1.0,1.0
+Ad 176,997500.0,"Guéliz, Marrakech",57,2.0,1.0,1.0
+Ad 177,1300000.0,"Samlalia, Marrakech",65,3.0,2.0,2.0
+Ad 178,6300000.0,"Tanger City Center, Tanger",182,6.0,4.0,4.0
+Ad 179,520000.0,"Kouilma, Tétouan",72,2.0,2.0,1.0
+Ad 180,1000000.0,"Al Osra, Casablanca",100,5.0,3.0,1.0
+Ad 181,1230000.0,"Mandarona, Casablanca",91,1.0,2.0,2.0
+Ad 182,620000.0,"Dar Bouazza, Dar Bouazza",64,2.0,2.0,1.0
+Ad 183,1480000.0,"Wilaya, Tétouan",130,4.0,3.0,2.0
+Ad 184,4200000.0,"Hay Hassani, Casablanca",189,7.0,3.0,3.0
+Ad 185,1350000.0,"Franceville, Casablanca",110,2.0,2.0,2.0
+Ad 186,740000.0,"Mhamid, Marrakech",97,3.0,1.0,2.0
+Ad 187,710000.0,"Zenata, Zenata",59,2.0,1.0,1.0
+Ad 188,20500.0,"Malabata, Tanger",91,3.0,2.0,2.0
+Ad 189,637000.0,"Zenata, Zenata",49,2.0,1.0,1.0
+Ad 190,1172000.0,"Hamria, Meknes",105,1.0,1.0,1.0
+Ad 191,885000.0,"Bernoussi, Casablanca",95,4.0,3.0,2.0
+Ad 192,1101600.0,"Aïn Sebaâ, Casablanca",102,4.0,2.0,2.0
+Ad 193,1880000.0,"Founti, Agadir",103,3.0,2.0,2.0
+Ad 194,2420000.0,"Guéliz, Marrakech",133,3.0,2.0,2.0
+Ad 195,11500.0,"Sidi Rahal, Sidi Rahal",95,3.0,2.0,2.0
+Ad 196,2650000.0,"Guéliz, Marrakech",100,5.0,2.0,2.0
+Ad 197,2480000.0,"Guéliz, Marrakech",84,3.0,2.0,2.0
+Ad 198,980000.0,"El Mansouria, El Mansouria",83,3.0,2.0,1.0
+Ad 199,3650000.0,"Agdal, Marrakech",136,4.0,2.0,2.0
+Ad 200,1422000.0,"Agdal, Marrakech",61,2.0,1.0,1.0
+Ad 201,1490000.0,"Belvédère, Casablanca",124,4.0,2.0,2.0
+Ad 202,1500000.0,"Guéliz, Marrakech",59,2.0,1.0,1.0
+Ad 203,2350000.0,"Hivernage, Marrakech",102,3.0,2.0,1.0
+Ad 204,1540000.0,"Belvédère, Casablanca",111,5.0,3.0,2.0
+Ad 205,1285000.0,"Guéliz, Marrakech",49,2.0,1.0,1.0
+Ad 206,895000.0,"Hivernage, Marrakech",46,2.0,1.0,1.0
+Ad 207,997500.0,"Guéliz, Marrakech",57,2.0,1.0,1.0
+Ad 208,1300000.0,"Samlalia, Marrakech",65,3.0,2.0,2.0
+Ad 209,6300000.0,"Tanger City Center, Tanger",182,6.0,4.0,4.0
+Ad 210,520000.0,"Kouilma, Tétouan",72,2.0,2.0,1.0
+Ad 211,1000000.0,"Al Osra, Casablanca",100,5.0,3.0,1.0
+Ad 212,1230000.0,"Mandarona, Casablanca",91,1.0,2.0,2.0
+Ad 213,620000.0,"Dar Bouazza, Dar Bouazza",64,2.0,2.0,1.0
+Ad 214,1480000.0,"Wilaya, Tétouan",130,4.0,3.0,2.0
+Ad 215,4200000.0,"Hay Hassani, Casablanca",189,7.0,3.0,3.0
+Ad 216,1350000.0,"Franceville, Casablanca",110,2.0,2.0,2.0
+Ad 217,740000.0,"Mhamid, Marrakech",97,3.0,1.0,2.0
+Ad 218,710000.0,"Zenata, Zenata",59,2.0,1.0,1.0
+Ad 219,20500.0,"Malabata, Tanger",91,3.0,2.0,2.0
+Ad 220,637000.0,"Zenata, Zenata",49,2.0,1.0,1.0
+Ad 221,1172000.0,"Hamria, Meknes",105,1.0,1.0,1.0
+Ad 222,885000.0,"Bernoussi, Casablanca",95,4.0,3.0,2.0
+Ad 223,1101600.0,"Aïn Sebaâ, Casablanca",102,4.0,2.0,2.0
+Ad 224,1880000.0,"Founti, Agadir",103,3.0,2.0,2.0
+Ad 225,2420000.0,"Guéliz, Marrakech",133,3.0,2.0,2.0
+Ad 226,11500.0,"Sidi Rahal, Sidi Rahal",95,3.0,2.0,2.0
+Ad 227,2650000.0,"Guéliz, Marrakech",100,5.0,2.0,2.0
+Ad 228,2480000.0,"Guéliz, Marrakech",84,3.0,2.0,2.0
+Ad 229,980000.0,"El Mansouria, El Mansouria",83,3.0,2.0,1.0
+Ad 230,3650000.0,"Agdal, Marrakech",136,4.0,2.0,2.0
+Ad 231,1422000.0,"Agdal, Marrakech",61,2.0,1.0,1.0
+Ad 232,1490000.0,"Belvédère, Casablanca",124,4.0,2.0,2.0
+Ad 233,1500000.0,"Guéliz, Marrakech",59,2.0,1.0,1.0
+Ad 234,2350000.0,"Hivernage, Marrakech",102,3.0,2.0,1.0
+Ad 235,1540000.0,"Belvédère, Casablanca",111,5.0,3.0,2.0
+Ad 236,1285000.0,"Guéliz, Marrakech",49,2.0,1.0,1.0
+Ad 237,895000.0,"Hivernage, Marrakech",46,2.0,1.0,1.0
+Ad 238,997500.0,"Guéliz, Marrakech",57,2.0,1.0,1.0
+Ad 239,1300000.0,"Samlalia, Marrakech",65,3.0,2.0,2.0
+Ad 240,6300000.0,"Tanger City Center, Tanger",182,6.0,4.0,4.0
+Ad 241,520000.0,"Kouilma, Tétouan",72,2.0,2.0,1.0
+Ad 242,1000000.0,"Al Osra, Casablanca",100,5.0,3.0,1.0
+Ad 243,1230000.0,"Mandarona, Casablanca",91,1.0,2.0,2.0
+Ad 244,620000.0,"Dar Bouazza, Dar Bouazza",64,2.0,2.0,1.0
+Ad 245,1480000.0,"Wilaya, Tétouan",130,4.0,3.0,2.0
+Ad 246,4200000.0,"Hay Hassani, Casablanca",189,7.0,3.0,3.0
+Ad 247,1350000.0,"Franceville, Casablanca",110,2.0,2.0,2.0
+Ad 248,740000.0,"Mhamid, Marrakech",97,3.0,1.0,2.0
+Ad 249,710000.0,Zenata,59,2.0,1.0,1.0
+Ad 250,20500.0,"Malabata, Tanger",91,3.0,2.0,2.0
+Ad 251,637000.0,Zenata,49,2.0,1.0,1.0
+Ad 252,1172000.0,"Hamria, Meknes",105,1.0,1.0,1.0
+Ad 253,885000.0,"Bernoussi, Casablanca",95,4.0,3.0,2.0
+Ad 254,1101600.0,"Aïn Sebaâ, Casablanca",102,4.0,2.0,2.0
+Ad 255,1880000.0,"Founti, Agadir",103,3.0,2.0,2.0
+Ad 256,2420000.0,"Guéliz, Marrakech",133,3.0,2.0,2.0
+Ad 257,11500.0,Sidi Rahal,95,3.0,2.0,2.0
+Ad 258,2650000.0,"Guéliz, Marrakech",100,5.0,2.0,2.0
+Ad 259,2480000.0,"Guéliz, Marrakech",84,3.0,2.0,2.0
+Ad 260,980000.0,El Mansouria,83,3.0,2.0,1.0
+Ad 261,3650000.0,"Agdal, Marrakech",136,4.0,2.0,2.0
+Ad 262,1422000.0,"Agdal, Marrakech",61,2.0,1.0,1.0
+Ad 263,1490000.0,"Belvédère, Casablanca",124,4.0,2.0,2.0
+Ad 264,1500000.0,"Guéliz, Marrakech",59,2.0,1.0,1.0
+Ad 265,2350000.0,"Hivernage, Marrakech",102,3.0,2.0,1.0
